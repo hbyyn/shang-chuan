@@ -1,0 +1,262 @@
+@import './mixi.scss';
+
+@for $i from 1 to 7 {
+  .custom-#{nth($theme, $i)} {
+    #header {
+      .mainHeader {
+        background: nth($subColors, $i) -webkit-gradient(linear, right top, left top, from(nth($mainColors, $i)), to(nth($subColors, $i)));
+        background: nth($subColors, $i) -webkit-linear-gradient(right, nth($mainColors, $i) 0, nth($subColors, $i) 100%);
+        background: nth($subColors, $i) -o-linear-gradient(right, nth($mainColors, $i) 0, nth($subColors, $i) 100%);
+        background: nth($subColors, $i) linear-gradient(-90deg, nth($mainColors, $i) 0, nth($subColors, $i) 100%);
+
+        .container {
+          .personal {
+            .dropdown-menu {
+              li {
+                span {
+                  &:hover {
+                    background: nth($mainColors, $i);
+                    color: #fff;
+                  }
+
+                  &.active {
+                    background: nth($mainColors, $i);
+                    color: #fff;
+                  }
+                }
+              }
+
+              >li:nth-of-type(1) {
+                span {
+                  :nth-of-type(1) {
+                    background: nth($subColors, $i);
+                  }
+                }
+              }
+
+              ul {
+                li {
+                  &.active {
+                    background: nth($mainColors, $i);
+                    color: #fff;
+                  }
+
+                  &:hover {
+                    background: nth($mainColors, $i);
+                    color: #fff;
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+
+      .subHeadr {
+        .container {
+          a.active {
+            color: nth($mainColors, $i);
+            font-weight: 700;
+          }
+        }
+      }
+    }
+
+    #footer {
+      border-top: 2px solid nth($subColors, $i);
+    }
+    #main {
+      >.container {
+        >.onlineBox {
+          >.sidebar {
+            >.handle {
+              >.handleBox {
+                >.handleBoxClick {
+                  background-color: nth($mainColors, $i);
+                }
+              }
+            }
+          }
+        }
+        #alcohol {
+          #alcoholPage{
+            &.activeBackground{
+              border: 1px solid nth($subColors, $i) !important;
+              border-bottom: none !important;
+            }
+          }
+        }
+        #faceData {
+          #faceDataPage {
+            &.activeBackground {
+              border: 1px solid nth($subColors, $i) !important;
+              border-bottom: none !important;
+            }
+          }
+        }
+
+        #drugData {
+          #drugDataPage {
+            &.activeBackground {
+              border: 1px solid nth($subColors, $i) !important;
+              border-bottom: none !important;
+            }
+          }
+        }
+        #staff {
+          #staffPage {
+            &.activeBackground {
+              border: 1px solid nth($subColors, $i) !important;
+              border-bottom: none !important;
+            }
+          }
+        }
+        #device {
+          #devicePage {
+            &.activeBackground {
+              border: 1px solid nth($subColors, $i) !important;
+              border-bottom: none !important;
+            }
+          }
+        }
+        #deviceu {
+          #deviceuPage {
+            &.activeBackground {
+              border: 1px solid nth($subColors, $i) !important;
+              border-bottom: none !important;
+            }
+          }
+        }
+        #devicel {
+          #devicelPage {
+            &.activeBackground {
+              border: 1px solid nth($subColors, $i) !important;
+              border-bottom: none !important;
+            }
+          }
+        }
+        #productType {
+          #productTypePage {
+            &.activeBackground {
+              border: 1px solid nth($subColors, $i) !important;
+              border-bottom: none !important;
+            }
+          }
+        }
+        #loginInfo {
+          #loginInfoPage {
+            &.activeBackground {
+              border: 1px solid nth($subColors, $i) !important;
+              border-bottom: none !important;
+            }
+          }
+        }
+        #faceChange {
+          #faceChangePage {
+            &.activeBackground {
+              border: 1px solid nth($subColors, $i) !important;
+              border-bottom: none !important;
+            }
+          }
+        }
+        #alcoholChange {
+          #alcoholChangePage {
+            &.activeBackground {
+              border: 1px solid nth($subColors, $i) !important;
+              border-bottom: none !important;
+            }
+          }
+        }
+        #deviceUserChange {
+          #deviceUserChangePage {
+            &.activeBackground {
+              border: 1px solid nth($subColors, $i) !important;
+              border-bottom: none !important;
+            }
+          }
+        }
+        #deviceChange {
+          #deviceChangePage {
+            &.activeBackground {
+              border: 1px solid nth($subColors, $i) !important;
+              border-bottom: none !important;
+            }
+          }
+        }
+        #feedback {
+          #feedbackPage {
+            &.activeBackground {
+              border: 1px solid nth($subColors, $i) !important;
+              border-bottom: none !important;
+            }
+          }
+        }
+        #admin {
+          #adminPage {
+            &.activeBackground {
+              border: 1px solid nth($subColors, $i) !important;
+              border-bottom: none !important;
+            }
+          }
+        }
+        #role {
+          #rolePage {
+            &.activeBackground {
+              border: 1px solid nth($subColors, $i) !important;
+              border-bottom: none !important;
+            }
+          }
+        }
+      }
+    }
+    .el-dialog {
+      border-radius: 4px !important;
+
+      .el-dialog__header {
+        border-bottom: 1px solid #dcdfe6 !important;
+        padding-bottom: 15px !important;
+
+        .el-dialog__title {
+          font-weight: bold;
+        }
+      }
+
+      .el-form-item__label {
+        font-weight: bold;
+        display: flex;
+        align-items: center;
+        justify-content: flex-end;
+        height: 33px;
+        line-height: 16px;
+      }
+    }
+
+    .el-pager li.active {
+      background-color: nth($mainColors, $i);
+      color: #fff;
+    }
+		.chart .el-collapse-item__header{
+			background: nth($mainColors, $i);
+		}
+		.chart-drag{
+			background: nth($mainColors, $i);
+			border-top-color: nth($mainColors, $i);
+		}
+		.chart .el-collapse{
+			border-color: nth($mainColors, $i);
+		}
+		.xh-tree li.parent_li>span,
+		.isMachine{
+			&:hover {
+				background: nth($machineOnLine, $i);
+				color: #fff!important;
+			}
+		}
+		.machine-onLine{
+			color: nth($machineOnLine, $i)!important;
+		}
+// 		.machine-icon{
+// 			color:nth($mainColors, $i);
+// 		}
+	}
+}

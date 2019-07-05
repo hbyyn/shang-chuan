@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width,initial-scale=1.0">
+		<title>4g-dvr</title>
+		<script src="./static/config.js"></script>
+	</head>
+	<body style="height: 100%">
+		<div id="app"></div>
+		<!-- built files will be auto injected -->
+		<script src="static/js/jquery-3.0.0.js" type="text/javascript" charset="utf-8"></script>
+		<script async="async" src="static/js/jquery.signalR-2.2.3.min.js" type="text/javascript" charset="utf-8"></script>
+		<!--极酷播放器/代码开始-->
+		<script async="async" type="text/javascript" src="static/player/js/swfobject.js"></script>
+		<script src="static/js/jspdf.plugin.autotable.js"></script>
+		<script>
+			var so = {};
+			window.onload = function(){
+				so = new SWFObject("./static/player/player.swf", "myCuPlayer", "0", "0", "9", "#000000");
+				so.addParam("allowfullscreen", "true");
+				so.addParam("allowscriptaccess", "always");
+				so.addParam("wmode", "opaque");
+				so.addParam("quality", "high");
+				so.addParam("salign", "lt");
+				so.addVariable("JcScpAutoPlay", "yes"); //是否自动播放
+				so.addVariable("JcScpFile", "./static/player/CuSunV4set.xml"); //配置文件
+				so.addVariable("ShowJcScpAMoveText", "no"); //是否滚动文字广告
+				so.addVariable("ShowJcScpACorner", "no"); //是否滚动文字广告
+			}
+
+		</script>
+		<!--极酷播放器/代码结束-->
+		<script>
+
+		</script>
+	</body>
+</html>

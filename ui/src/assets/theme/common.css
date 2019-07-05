@@ -1,0 +1,1043 @@
+.custom-0c64eb #header .mainHeader {
+  background: #1183fb -webkit-gradient(linear, right top, left top, from(#0c64eb), to(#1183fb));
+  background: #1183fb -webkit-linear-gradient(right, #0c64eb 0, #1183fb 100%);
+  background: #1183fb -o-linear-gradient(right, #0c64eb 0, #1183fb 100%);
+  background: #1183fb linear-gradient(-90deg, #0c64eb 0, #1183fb 100%);
+}
+
+.custom-0c64eb #header .mainHeader .container .personal .dropdown-menu li span:hover {
+  background: #0c64eb;
+  color: #fff;
+}
+
+.custom-0c64eb #header .mainHeader .container .personal .dropdown-menu li span.active {
+  background: #0c64eb;
+  color: #fff;
+}
+
+.custom-0c64eb #header .mainHeader .container .personal .dropdown-menu > li:nth-of-type(1) span :nth-of-type(1) {
+  background: #1183fb;
+}
+
+.custom-0c64eb #header .mainHeader .container .personal .dropdown-menu ul li.active {
+  background: #0c64eb;
+  color: #fff;
+}
+
+.custom-0c64eb #header .mainHeader .container .personal .dropdown-menu ul li:hover {
+  background: #0c64eb;
+  color: #fff;
+}
+
+.custom-0c64eb #header .subHeadr .container a.active {
+  color: #0c64eb;
+  font-weight: 700;
+}
+
+.custom-0c64eb #footer {
+  border-top: 2px solid #1183fb;
+}
+
+.custom-0c64eb #main > .container > .onlineBox > .sidebar > .handle > .handleBox > .handleBoxClick {
+  background-color: #0c64eb;
+}
+
+.custom-0c64eb #main > .container #alcohol #alcoholPage.activeBackground {
+  border: 1px solid #1183fb !important;
+  border-bottom: none !important;
+}
+
+.custom-0c64eb #main > .container #faceData #faceDataPage.activeBackground {
+  border: 1px solid #1183fb !important;
+  border-bottom: none !important;
+}
+
+.custom-0c64eb #main > .container #drugData #drugDataPage.activeBackground {
+  border: 1px solid #1183fb !important;
+  border-bottom: none !important;
+}
+
+.custom-0c64eb #main > .container #staff #staffPage.activeBackground {
+  border: 1px solid #1183fb !important;
+  border-bottom: none !important;
+}
+
+.custom-0c64eb #main > .container #device #devicePage.activeBackground {
+  border: 1px solid #1183fb !important;
+  border-bottom: none !important;
+}
+
+.custom-0c64eb #main > .container #deviceu #deviceuPage.activeBackground {
+  border: 1px solid #1183fb !important;
+  border-bottom: none !important;
+}
+
+.custom-0c64eb #main > .container #devicel #devicelPage.activeBackground {
+  border: 1px solid #1183fb !important;
+  border-bottom: none !important;
+}
+
+.custom-0c64eb #main > .container #productType #productTypePage.activeBackground {
+  border: 1px solid #1183fb !important;
+  border-bottom: none !important;
+}
+
+.custom-0c64eb #main > .container #loginInfo #loginInfoPage.activeBackground {
+  border: 1px solid #1183fb !important;
+  border-bottom: none !important;
+}
+
+.custom-0c64eb #main > .container #faceChange #faceChangePage.activeBackground {
+  border: 1px solid #1183fb !important;
+  border-bottom: none !important;
+}
+
+.custom-0c64eb #main > .container #alcoholChange #alcoholChangePage.activeBackground {
+  border: 1px solid #1183fb !important;
+  border-bottom: none !important;
+}
+
+.custom-0c64eb #main > .container #deviceUserChange #deviceUserChangePage.activeBackground {
+  border: 1px solid #1183fb !important;
+  border-bottom: none !important;
+}
+
+.custom-0c64eb #main > .container #deviceChange #deviceChangePage.activeBackground {
+  border: 1px solid #1183fb !important;
+  border-bottom: none !important;
+}
+
+.custom-0c64eb #main > .container #feedback #feedbackPage.activeBackground {
+  border: 1px solid #1183fb !important;
+  border-bottom: none !important;
+}
+
+.custom-0c64eb #main > .container #admin #adminPage.activeBackground {
+  border: 1px solid #1183fb !important;
+  border-bottom: none !important;
+}
+
+.custom-0c64eb #main > .container #role #rolePage.activeBackground {
+  border: 1px solid #1183fb !important;
+  border-bottom: none !important;
+}
+
+.custom-0c64eb .el-dialog {
+  border-radius: 4px !important;
+}
+
+.custom-0c64eb .el-dialog .el-dialog__header {
+  border-bottom: 1px solid #dcdfe6 !important;
+  padding-bottom: 15px !important;
+}
+
+.custom-0c64eb .el-dialog .el-dialog__header .el-dialog__title {
+  font-weight: bold;
+}
+
+.custom-0c64eb .el-dialog .el-form-item__label {
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  height: 33px;
+  line-height: 16px;
+}
+
+.custom-0c64eb .el-pager li.active {
+  background-color: #0c64eb;
+  color: #fff;
+}
+
+.custom-0c64eb .chart .el-collapse-item__header {
+  background: #0c64eb;
+}
+
+.custom-0c64eb .chart-drag {
+  background: #0c64eb;
+  border-top-color: #0c64eb;
+}
+
+.custom-0c64eb .chart .el-collapse {
+  border-color: #0c64eb;
+}
+
+.custom-0c64eb .xh-tree li.parent_li > span:hover,
+.custom-0c64eb .isMachine:hover {
+  background: #ff20d8;
+  color: #fff !important;
+}
+
+.custom-0c64eb .machine-onLine {
+  color: #ff20d8 !important;
+}
+
+.custom-00b791 #header .mainHeader {
+  background: #5adf96 -webkit-gradient(linear, right top, left top, from(#00b791), to(#5adf96));
+  background: #5adf96 -webkit-linear-gradient(right, #00b791 0, #5adf96 100%);
+  background: #5adf96 -o-linear-gradient(right, #00b791 0, #5adf96 100%);
+  background: #5adf96 linear-gradient(-90deg, #00b791 0, #5adf96 100%);
+}
+
+.custom-00b791 #header .mainHeader .container .personal .dropdown-menu li span:hover {
+  background: #00b791;
+  color: #fff;
+}
+
+.custom-00b791 #header .mainHeader .container .personal .dropdown-menu li span.active {
+  background: #00b791;
+  color: #fff;
+}
+
+.custom-00b791 #header .mainHeader .container .personal .dropdown-menu > li:nth-of-type(1) span :nth-of-type(1) {
+  background: #5adf96;
+}
+
+.custom-00b791 #header .mainHeader .container .personal .dropdown-menu ul li.active {
+  background: #00b791;
+  color: #fff;
+}
+
+.custom-00b791 #header .mainHeader .container .personal .dropdown-menu ul li:hover {
+  background: #00b791;
+  color: #fff;
+}
+
+.custom-00b791 #header .subHeadr .container a.active {
+  color: #00b791;
+  font-weight: 700;
+}
+
+.custom-00b791 #footer {
+  border-top: 2px solid #5adf96;
+}
+
+.custom-00b791 #main > .container > .onlineBox > .sidebar > .handle > .handleBox > .handleBoxClick {
+  background-color: #00b791;
+}
+
+.custom-00b791 #main > .container #alcohol #alcoholPage.activeBackground {
+  border: 1px solid #5adf96 !important;
+  border-bottom: none !important;
+}
+
+.custom-00b791 #main > .container #faceData #faceDataPage.activeBackground {
+  border: 1px solid #5adf96 !important;
+  border-bottom: none !important;
+}
+
+.custom-00b791 #main > .container #drugData #drugDataPage.activeBackground {
+  border: 1px solid #5adf96 !important;
+  border-bottom: none !important;
+}
+
+.custom-00b791 #main > .container #staff #staffPage.activeBackground {
+  border: 1px solid #5adf96 !important;
+  border-bottom: none !important;
+}
+
+.custom-00b791 #main > .container #device #devicePage.activeBackground {
+  border: 1px solid #5adf96 !important;
+  border-bottom: none !important;
+}
+
+.custom-00b791 #main > .container #deviceu #deviceuPage.activeBackground {
+  border: 1px solid #5adf96 !important;
+  border-bottom: none !important;
+}
+
+.custom-00b791 #main > .container #devicel #devicelPage.activeBackground {
+  border: 1px solid #5adf96 !important;
+  border-bottom: none !important;
+}
+
+.custom-00b791 #main > .container #productType #productTypePage.activeBackground {
+  border: 1px solid #5adf96 !important;
+  border-bottom: none !important;
+}
+
+.custom-00b791 #main > .container #loginInfo #loginInfoPage.activeBackground {
+  border: 1px solid #5adf96 !important;
+  border-bottom: none !important;
+}
+
+.custom-00b791 #main > .container #faceChange #faceChangePage.activeBackground {
+  border: 1px solid #5adf96 !important;
+  border-bottom: none !important;
+}
+
+.custom-00b791 #main > .container #alcoholChange #alcoholChangePage.activeBackground {
+  border: 1px solid #5adf96 !important;
+  border-bottom: none !important;
+}
+
+.custom-00b791 #main > .container #deviceUserChange #deviceUserChangePage.activeBackground {
+  border: 1px solid #5adf96 !important;
+  border-bottom: none !important;
+}
+
+.custom-00b791 #main > .container #deviceChange #deviceChangePage.activeBackground {
+  border: 1px solid #5adf96 !important;
+  border-bottom: none !important;
+}
+
+.custom-00b791 #main > .container #feedback #feedbackPage.activeBackground {
+  border: 1px solid #5adf96 !important;
+  border-bottom: none !important;
+}
+
+.custom-00b791 #main > .container #admin #adminPage.activeBackground {
+  border: 1px solid #5adf96 !important;
+  border-bottom: none !important;
+}
+
+.custom-00b791 #main > .container #role #rolePage.activeBackground {
+  border: 1px solid #5adf96 !important;
+  border-bottom: none !important;
+}
+
+.custom-00b791 .el-dialog {
+  border-radius: 4px !important;
+}
+
+.custom-00b791 .el-dialog .el-dialog__header {
+  border-bottom: 1px solid #dcdfe6 !important;
+  padding-bottom: 15px !important;
+}
+
+.custom-00b791 .el-dialog .el-dialog__header .el-dialog__title {
+  font-weight: bold;
+}
+
+.custom-00b791 .el-dialog .el-form-item__label {
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  height: 33px;
+  line-height: 16px;
+}
+
+.custom-00b791 .el-pager li.active {
+  background-color: #00b791;
+  color: #fff;
+}
+
+.custom-00b791 .chart .el-collapse-item__header {
+  background: #00b791;
+}
+
+.custom-00b791 .chart-drag {
+  background: #00b791;
+  border-top-color: #00b791;
+}
+
+.custom-00b791 .chart .el-collapse {
+  border-color: #00b791;
+}
+
+.custom-00b791 .xh-tree li.parent_li > span:hover,
+.custom-00b791 .isMachine:hover {
+  background: #694cff;
+  color: #fff !important;
+}
+
+.custom-00b791 .machine-onLine {
+  color: #694cff !important;
+}
+
+.custom-e62340 #header .mainHeader {
+  background: #f5515f -webkit-gradient(linear, right top, left top, from(#e62340), to(#f5515f));
+  background: #f5515f -webkit-linear-gradient(right, #e62340 0, #f5515f 100%);
+  background: #f5515f -o-linear-gradient(right, #e62340 0, #f5515f 100%);
+  background: #f5515f linear-gradient(-90deg, #e62340 0, #f5515f 100%);
+}
+
+.custom-e62340 #header .mainHeader .container .personal .dropdown-menu li span:hover {
+  background: #e62340;
+  color: #fff;
+}
+
+.custom-e62340 #header .mainHeader .container .personal .dropdown-menu li span.active {
+  background: #e62340;
+  color: #fff;
+}
+
+.custom-e62340 #header .mainHeader .container .personal .dropdown-menu > li:nth-of-type(1) span :nth-of-type(1) {
+  background: #f5515f;
+}
+
+.custom-e62340 #header .mainHeader .container .personal .dropdown-menu ul li.active {
+  background: #e62340;
+  color: #fff;
+}
+
+.custom-e62340 #header .mainHeader .container .personal .dropdown-menu ul li:hover {
+  background: #e62340;
+  color: #fff;
+}
+
+.custom-e62340 #header .subHeadr .container a.active {
+  color: #e62340;
+  font-weight: 700;
+}
+
+.custom-e62340 #footer {
+  border-top: 2px solid #f5515f;
+}
+
+.custom-e62340 #main > .container > .onlineBox > .sidebar > .handle > .handleBox > .handleBoxClick {
+  background-color: #e62340;
+}
+
+.custom-e62340 #main > .container #alcohol #alcoholPage.activeBackground {
+  border: 1px solid #f5515f !important;
+  border-bottom: none !important;
+}
+
+.custom-e62340 #main > .container #faceData #faceDataPage.activeBackground {
+  border: 1px solid #f5515f !important;
+  border-bottom: none !important;
+}
+
+.custom-e62340 #main > .container #drugData #drugDataPage.activeBackground {
+  border: 1px solid #f5515f !important;
+  border-bottom: none !important;
+}
+
+.custom-e62340 #main > .container #staff #staffPage.activeBackground {
+  border: 1px solid #f5515f !important;
+  border-bottom: none !important;
+}
+
+.custom-e62340 #main > .container #device #devicePage.activeBackground {
+  border: 1px solid #f5515f !important;
+  border-bottom: none !important;
+}
+
+.custom-e62340 #main > .container #deviceu #deviceuPage.activeBackground {
+  border: 1px solid #f5515f !important;
+  border-bottom: none !important;
+}
+
+.custom-e62340 #main > .container #devicel #devicelPage.activeBackground {
+  border: 1px solid #f5515f !important;
+  border-bottom: none !important;
+}
+
+.custom-e62340 #main > .container #productType #productTypePage.activeBackground {
+  border: 1px solid #f5515f !important;
+  border-bottom: none !important;
+}
+
+.custom-e62340 #main > .container #loginInfo #loginInfoPage.activeBackground {
+  border: 1px solid #f5515f !important;
+  border-bottom: none !important;
+}
+
+.custom-e62340 #main > .container #faceChange #faceChangePage.activeBackground {
+  border: 1px solid #f5515f !important;
+  border-bottom: none !important;
+}
+
+.custom-e62340 #main > .container #alcoholChange #alcoholChangePage.activeBackground {
+  border: 1px solid #f5515f !important;
+  border-bottom: none !important;
+}
+
+.custom-e62340 #main > .container #deviceUserChange #deviceUserChangePage.activeBackground {
+  border: 1px solid #f5515f !important;
+  border-bottom: none !important;
+}
+
+.custom-e62340 #main > .container #deviceChange #deviceChangePage.activeBackground {
+  border: 1px solid #f5515f !important;
+  border-bottom: none !important;
+}
+
+.custom-e62340 #main > .container #feedback #feedbackPage.activeBackground {
+  border: 1px solid #f5515f !important;
+  border-bottom: none !important;
+}
+
+.custom-e62340 #main > .container #admin #adminPage.activeBackground {
+  border: 1px solid #f5515f !important;
+  border-bottom: none !important;
+}
+
+.custom-e62340 #main > .container #role #rolePage.activeBackground {
+  border: 1px solid #f5515f !important;
+  border-bottom: none !important;
+}
+
+.custom-e62340 .el-dialog {
+  border-radius: 4px !important;
+}
+
+.custom-e62340 .el-dialog .el-dialog__header {
+  border-bottom: 1px solid #dcdfe6 !important;
+  padding-bottom: 15px !important;
+}
+
+.custom-e62340 .el-dialog .el-dialog__header .el-dialog__title {
+  font-weight: bold;
+}
+
+.custom-e62340 .el-dialog .el-form-item__label {
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  height: 33px;
+  line-height: 16px;
+}
+
+.custom-e62340 .el-pager li.active {
+  background-color: #e62340;
+  color: #fff;
+}
+
+.custom-e62340 .chart .el-collapse-item__header {
+  background: #e62340;
+}
+
+.custom-e62340 .chart-drag {
+  background: #e62340;
+  border-top-color: #e62340;
+}
+
+.custom-e62340 .chart .el-collapse {
+  border-color: #e62340;
+}
+
+.custom-e62340 .xh-tree li.parent_li > span:hover,
+.custom-e62340 .isMachine:hover {
+  background: #00a8c5;
+  color: #fff !important;
+}
+
+.custom-e62340 .machine-onLine {
+  color: #00a8c5 !important;
+}
+
+.custom-3123ae #header .mainHeader {
+  background: #9958dc -webkit-gradient(linear, right top, left top, from(#3123ae), to(#9958dc));
+  background: #9958dc -webkit-linear-gradient(right, #3123ae 0, #9958dc 100%);
+  background: #9958dc -o-linear-gradient(right, #3123ae 0, #9958dc 100%);
+  background: #9958dc linear-gradient(-90deg, #3123ae 0, #9958dc 100%);
+}
+
+.custom-3123ae #header .mainHeader .container .personal .dropdown-menu li span:hover {
+  background: #3123ae;
+  color: #fff;
+}
+
+.custom-3123ae #header .mainHeader .container .personal .dropdown-menu li span.active {
+  background: #3123ae;
+  color: #fff;
+}
+
+.custom-3123ae #header .mainHeader .container .personal .dropdown-menu > li:nth-of-type(1) span :nth-of-type(1) {
+  background: #9958dc;
+}
+
+.custom-3123ae #header .mainHeader .container .personal .dropdown-menu ul li.active {
+  background: #3123ae;
+  color: #fff;
+}
+
+.custom-3123ae #header .mainHeader .container .personal .dropdown-menu ul li:hover {
+  background: #3123ae;
+  color: #fff;
+}
+
+.custom-3123ae #header .subHeadr .container a.active {
+  color: #3123ae;
+  font-weight: 700;
+}
+
+.custom-3123ae #footer {
+  border-top: 2px solid #9958dc;
+}
+
+.custom-3123ae #main > .container > .onlineBox > .sidebar > .handle > .handleBox > .handleBoxClick {
+  background-color: #3123ae;
+}
+
+.custom-3123ae #main > .container #alcohol #alcoholPage.activeBackground {
+  border: 1px solid #9958dc !important;
+  border-bottom: none !important;
+}
+
+.custom-3123ae #main > .container #faceData #faceDataPage.activeBackground {
+  border: 1px solid #9958dc !important;
+  border-bottom: none !important;
+}
+
+.custom-3123ae #main > .container #drugData #drugDataPage.activeBackground {
+  border: 1px solid #9958dc !important;
+  border-bottom: none !important;
+}
+
+.custom-3123ae #main > .container #staff #staffPage.activeBackground {
+  border: 1px solid #9958dc !important;
+  border-bottom: none !important;
+}
+
+.custom-3123ae #main > .container #device #devicePage.activeBackground {
+  border: 1px solid #9958dc !important;
+  border-bottom: none !important;
+}
+
+.custom-3123ae #main > .container #deviceu #deviceuPage.activeBackground {
+  border: 1px solid #9958dc !important;
+  border-bottom: none !important;
+}
+
+.custom-3123ae #main > .container #devicel #devicelPage.activeBackground {
+  border: 1px solid #9958dc !important;
+  border-bottom: none !important;
+}
+
+.custom-3123ae #main > .container #productType #productTypePage.activeBackground {
+  border: 1px solid #9958dc !important;
+  border-bottom: none !important;
+}
+
+.custom-3123ae #main > .container #loginInfo #loginInfoPage.activeBackground {
+  border: 1px solid #9958dc !important;
+  border-bottom: none !important;
+}
+
+.custom-3123ae #main > .container #faceChange #faceChangePage.activeBackground {
+  border: 1px solid #9958dc !important;
+  border-bottom: none !important;
+}
+
+.custom-3123ae #main > .container #alcoholChange #alcoholChangePage.activeBackground {
+  border: 1px solid #9958dc !important;
+  border-bottom: none !important;
+}
+
+.custom-3123ae #main > .container #deviceUserChange #deviceUserChangePage.activeBackground {
+  border: 1px solid #9958dc !important;
+  border-bottom: none !important;
+}
+
+.custom-3123ae #main > .container #deviceChange #deviceChangePage.activeBackground {
+  border: 1px solid #9958dc !important;
+  border-bottom: none !important;
+}
+
+.custom-3123ae #main > .container #feedback #feedbackPage.activeBackground {
+  border: 1px solid #9958dc !important;
+  border-bottom: none !important;
+}
+
+.custom-3123ae #main > .container #admin #adminPage.activeBackground {
+  border: 1px solid #9958dc !important;
+  border-bottom: none !important;
+}
+
+.custom-3123ae #main > .container #role #rolePage.activeBackground {
+  border: 1px solid #9958dc !important;
+  border-bottom: none !important;
+}
+
+.custom-3123ae .el-dialog {
+  border-radius: 4px !important;
+}
+
+.custom-3123ae .el-dialog .el-dialog__header {
+  border-bottom: 1px solid #dcdfe6 !important;
+  padding-bottom: 15px !important;
+}
+
+.custom-3123ae .el-dialog .el-dialog__header .el-dialog__title {
+  font-weight: bold;
+}
+
+.custom-3123ae .el-dialog .el-form-item__label {
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  height: 33px;
+  line-height: 16px;
+}
+
+.custom-3123ae .el-pager li.active {
+  background-color: #3123ae;
+  color: #fff;
+}
+
+.custom-3123ae .chart .el-collapse-item__header {
+  background: #3123ae;
+}
+
+.custom-3123ae .chart-drag {
+  background: #3123ae;
+  border-top-color: #3123ae;
+}
+
+.custom-3123ae .chart .el-collapse {
+  border-color: #3123ae;
+}
+
+.custom-3123ae .xh-tree li.parent_li > span:hover,
+.custom-3123ae .isMachine:hover {
+  background: #41c500;
+  color: #fff !important;
+}
+
+.custom-3123ae .machine-onLine {
+  color: #41c500 !important;
+}
+
+.custom-a050d7 #header .mainHeader {
+  background: #f7889c -webkit-gradient(linear, right top, left top, from(#a050d7), to(#f7889c));
+  background: #f7889c -webkit-linear-gradient(right, #a050d7 0, #f7889c 100%);
+  background: #f7889c -o-linear-gradient(right, #a050d7 0, #f7889c 100%);
+  background: #f7889c linear-gradient(-90deg, #a050d7 0, #f7889c 100%);
+}
+
+.custom-a050d7 #header .mainHeader .container .personal .dropdown-menu li span:hover {
+  background: #a050d7;
+  color: #fff;
+}
+
+.custom-a050d7 #header .mainHeader .container .personal .dropdown-menu li span.active {
+  background: #a050d7;
+  color: #fff;
+}
+
+.custom-a050d7 #header .mainHeader .container .personal .dropdown-menu > li:nth-of-type(1) span :nth-of-type(1) {
+  background: #f7889c;
+}
+
+.custom-a050d7 #header .mainHeader .container .personal .dropdown-menu ul li.active {
+  background: #a050d7;
+  color: #fff;
+}
+
+.custom-a050d7 #header .mainHeader .container .personal .dropdown-menu ul li:hover {
+  background: #a050d7;
+  color: #fff;
+}
+
+.custom-a050d7 #header .subHeadr .container a.active {
+  color: #a050d7;
+  font-weight: 700;
+}
+
+.custom-a050d7 #footer {
+  border-top: 2px solid #f7889c;
+}
+
+.custom-a050d7 #main > .container > .onlineBox > .sidebar > .handle > .handleBox > .handleBoxClick {
+  background-color: #a050d7;
+}
+
+.custom-a050d7 #main > .container #alcohol #alcoholPage.activeBackground {
+  border: 1px solid #f7889c !important;
+  border-bottom: none !important;
+}
+
+.custom-a050d7 #main > .container #faceData #faceDataPage.activeBackground {
+  border: 1px solid #f7889c !important;
+  border-bottom: none !important;
+}
+
+.custom-a050d7 #main > .container #drugData #drugDataPage.activeBackground {
+  border: 1px solid #f7889c !important;
+  border-bottom: none !important;
+}
+
+.custom-a050d7 #main > .container #staff #staffPage.activeBackground {
+  border: 1px solid #f7889c !important;
+  border-bottom: none !important;
+}
+
+.custom-a050d7 #main > .container #device #devicePage.activeBackground {
+  border: 1px solid #f7889c !important;
+  border-bottom: none !important;
+}
+
+.custom-a050d7 #main > .container #deviceu #deviceuPage.activeBackground {
+  border: 1px solid #f7889c !important;
+  border-bottom: none !important;
+}
+
+.custom-a050d7 #main > .container #devicel #devicelPage.activeBackground {
+  border: 1px solid #f7889c !important;
+  border-bottom: none !important;
+}
+
+.custom-a050d7 #main > .container #productType #productTypePage.activeBackground {
+  border: 1px solid #f7889c !important;
+  border-bottom: none !important;
+}
+
+.custom-a050d7 #main > .container #loginInfo #loginInfoPage.activeBackground {
+  border: 1px solid #f7889c !important;
+  border-bottom: none !important;
+}
+
+.custom-a050d7 #main > .container #faceChange #faceChangePage.activeBackground {
+  border: 1px solid #f7889c !important;
+  border-bottom: none !important;
+}
+
+.custom-a050d7 #main > .container #alcoholChange #alcoholChangePage.activeBackground {
+  border: 1px solid #f7889c !important;
+  border-bottom: none !important;
+}
+
+.custom-a050d7 #main > .container #deviceUserChange #deviceUserChangePage.activeBackground {
+  border: 1px solid #f7889c !important;
+  border-bottom: none !important;
+}
+
+.custom-a050d7 #main > .container #deviceChange #deviceChangePage.activeBackground {
+  border: 1px solid #f7889c !important;
+  border-bottom: none !important;
+}
+
+.custom-a050d7 #main > .container #feedback #feedbackPage.activeBackground {
+  border: 1px solid #f7889c !important;
+  border-bottom: none !important;
+}
+
+.custom-a050d7 #main > .container #admin #adminPage.activeBackground {
+  border: 1px solid #f7889c !important;
+  border-bottom: none !important;
+}
+
+.custom-a050d7 #main > .container #role #rolePage.activeBackground {
+  border: 1px solid #f7889c !important;
+  border-bottom: none !important;
+}
+
+.custom-a050d7 .el-dialog {
+  border-radius: 4px !important;
+}
+
+.custom-a050d7 .el-dialog .el-dialog__header {
+  border-bottom: 1px solid #dcdfe6 !important;
+  padding-bottom: 15px !important;
+}
+
+.custom-a050d7 .el-dialog .el-dialog__header .el-dialog__title {
+  font-weight: bold;
+}
+
+.custom-a050d7 .el-dialog .el-form-item__label {
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  height: 33px;
+  line-height: 16px;
+}
+
+.custom-a050d7 .el-pager li.active {
+  background-color: #a050d7;
+  color: #fff;
+}
+
+.custom-a050d7 .chart .el-collapse-item__header {
+  background: #a050d7;
+}
+
+.custom-a050d7 .chart-drag {
+  background: #a050d7;
+  border-top-color: #a050d7;
+}
+
+.custom-a050d7 .chart .el-collapse {
+  border-color: #a050d7;
+}
+
+.custom-a050d7 .xh-tree li.parent_li > span:hover,
+.custom-a050d7 .isMachine:hover {
+  background: #ff8f00;
+  color: #fff !important;
+}
+
+.custom-a050d7 .machine-onLine {
+  color: #ff8f00 !important;
+}
+
+.custom-23304d #header .mainHeader {
+  background: #304269 -webkit-gradient(linear, right top, left top, from(#23304d), to(#304269));
+  background: #304269 -webkit-linear-gradient(right, #23304d 0, #304269 100%);
+  background: #304269 -o-linear-gradient(right, #23304d 0, #304269 100%);
+  background: #304269 linear-gradient(-90deg, #23304d 0, #304269 100%);
+}
+
+.custom-23304d #header .mainHeader .container .personal .dropdown-menu li span:hover {
+  background: #23304d;
+  color: #fff;
+}
+
+.custom-23304d #header .mainHeader .container .personal .dropdown-menu li span.active {
+  background: #23304d;
+  color: #fff;
+}
+
+.custom-23304d #header .mainHeader .container .personal .dropdown-menu > li:nth-of-type(1) span :nth-of-type(1) {
+  background: #304269;
+}
+
+.custom-23304d #header .mainHeader .container .personal .dropdown-menu ul li.active {
+  background: #23304d;
+  color: #fff;
+}
+
+.custom-23304d #header .mainHeader .container .personal .dropdown-menu ul li:hover {
+  background: #23304d;
+  color: #fff;
+}
+
+.custom-23304d #header .subHeadr .container a.active {
+  color: #23304d;
+  font-weight: 700;
+}
+
+.custom-23304d #footer {
+  border-top: 2px solid #304269;
+}
+
+.custom-23304d #main > .container > .onlineBox > .sidebar > .handle > .handleBox > .handleBoxClick {
+  background-color: #23304d;
+}
+
+.custom-23304d #main > .container #alcohol #alcoholPage.activeBackground {
+  border: 1px solid #304269 !important;
+  border-bottom: none !important;
+}
+
+.custom-23304d #main > .container #faceData #faceDataPage.activeBackground {
+  border: 1px solid #304269 !important;
+  border-bottom: none !important;
+}
+
+.custom-23304d #main > .container #drugData #drugDataPage.activeBackground {
+  border: 1px solid #304269 !important;
+  border-bottom: none !important;
+}
+
+.custom-23304d #main > .container #staff #staffPage.activeBackground {
+  border: 1px solid #304269 !important;
+  border-bottom: none !important;
+}
+
+.custom-23304d #main > .container #device #devicePage.activeBackground {
+  border: 1px solid #304269 !important;
+  border-bottom: none !important;
+}
+
+.custom-23304d #main > .container #deviceu #deviceuPage.activeBackground {
+  border: 1px solid #304269 !important;
+  border-bottom: none !important;
+}
+
+.custom-23304d #main > .container #devicel #devicelPage.activeBackground {
+  border: 1px solid #304269 !important;
+  border-bottom: none !important;
+}
+
+.custom-23304d #main > .container #productType #productTypePage.activeBackground {
+  border: 1px solid #304269 !important;
+  border-bottom: none !important;
+}
+
+.custom-23304d #main > .container #loginInfo #loginInfoPage.activeBackground {
+  border: 1px solid #304269 !important;
+  border-bottom: none !important;
+}
+
+.custom-23304d #main > .container #faceChange #faceChangePage.activeBackground {
+  border: 1px solid #304269 !important;
+  border-bottom: none !important;
+}
+
+.custom-23304d #main > .container #alcoholChange #alcoholChangePage.activeBackground {
+  border: 1px solid #304269 !important;
+  border-bottom: none !important;
+}
+
+.custom-23304d #main > .container #deviceUserChange #deviceUserChangePage.activeBackground {
+  border: 1px solid #304269 !important;
+  border-bottom: none !important;
+}
+
+.custom-23304d #main > .container #deviceChange #deviceChangePage.activeBackground {
+  border: 1px solid #304269 !important;
+  border-bottom: none !important;
+}
+
+.custom-23304d #main > .container #feedback #feedbackPage.activeBackground {
+  border: 1px solid #304269 !important;
+  border-bottom: none !important;
+}
+
+.custom-23304d #main > .container #admin #adminPage.activeBackground {
+  border: 1px solid #304269 !important;
+  border-bottom: none !important;
+}
+
+.custom-23304d #main > .container #role #rolePage.activeBackground {
+  border: 1px solid #304269 !important;
+  border-bottom: none !important;
+}
+
+.custom-23304d .el-dialog {
+  border-radius: 4px !important;
+}
+
+.custom-23304d .el-dialog .el-dialog__header {
+  border-bottom: 1px solid #dcdfe6 !important;
+  padding-bottom: 15px !important;
+}
+
+.custom-23304d .el-dialog .el-dialog__header .el-dialog__title {
+  font-weight: bold;
+}
+
+.custom-23304d .el-dialog .el-form-item__label {
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  height: 33px;
+  line-height: 16px;
+}
+
+.custom-23304d .el-pager li.active {
+  background-color: #23304d;
+  color: #fff;
+}
+
+.custom-23304d .chart .el-collapse-item__header {
+  background: #23304d;
+}
+
+.custom-23304d .chart-drag {
+  background: #23304d;
+  border-top-color: #23304d;
+}
+
+.custom-23304d .chart .el-collapse {
+  border-color: #23304d;
+}
+
+.custom-23304d .xh-tree li.parent_li > span:hover,
+.custom-23304d .isMachine:hover {
+  background: #f73e3e;
+  color: #fff !important;
+}
+
+.custom-23304d .machine-onLine {
+  color: #f73e3e !important;
+}

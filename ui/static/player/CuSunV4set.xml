@@ -1,0 +1,22 @@
+<CuPlayer>
+ <Player_Set 
+		JcScpBufferTime = "3"
+ 		JcScpVolume = "75"
+		JcScpCode = "utf8"
+ 		JcScpImgDisplay = "no"
+		JcScpAutoHideControl="yes"
+		JcScpControlHideTime="0.5"
+		JcScpControlHeight="40"	
+		JcScpShowList= "next"
+		JcScpAutoRepeat = "no"
+		JcScpsetMode = "1"
+		JcScpAFrontCanClose = "no"
+		JcScpShowRightmenu = "no"
+		JcScpShareMode = "JcScpVideoPath"
+		JcScpLoadbarMode = "0"
+		JcScpLiveMode  = "0"
+  
+	/>
+  //JcScpShowRightmenu 关闭右侧菜单
+
+</CuPlayer>

@@ -20,7 +20,7 @@
     "gulp-css-wrap": "^0.1.2",
     "hls.js": "^0.12.4",
     "html2canvas": "^1.0.0-rc.3",
-    "jspdf": "^1.5.3",
+    "jspdf": "^2.3.1",
     "jspdf-autotable": "^3.1.1",
     "recorderx": "^0.1.1",
     "v-viewer": "^1.4.0",
